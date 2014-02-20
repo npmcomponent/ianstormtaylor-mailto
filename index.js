@@ -1,5 +1,5 @@
 
-var stringify = require('querystring').stringify;
+var stringify = require('component-querystring').stringify;
 
 
 /**

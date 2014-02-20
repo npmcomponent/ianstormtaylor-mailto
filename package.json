@@ -1,0 +1,17 @@
+{
+  "name": "ianstormtaylor-mailto",
+  "description": "Programmatically open the user's email client.",
+  "version": "0.0.1",
+  "keywords": [
+    "mailto",
+    "email",
+    "send",
+    "subject",
+    "body",
+    "address"
+  ],
+  "dependencies": {
+    "component-querystring": "git://github.com/npmcomponent/component-querystring.git"
+  },
+  "license": "MIT"
+}
